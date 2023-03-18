@@ -1,21 +1,21 @@
 {
-  "name": "Cocktail_bar",
+  "name": "cocktail_project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ivangudiuk.github.io/Cocktail_bar/",
+  "homepage": "https://Igor-0279.github.io/cocktail_project/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /TWS-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IvanGudiuk/Cocktail_bar"
+    "url": "git+https://github.com/Igor-0279/cocktail_project"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IvanGudiuk/Cocktail_bar/issues"
+    "url": "https://github.com/Igor-0279/cocktail_project/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
